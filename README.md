@@ -1,5 +1,6 @@
 # 🧮 Predictor de Gastos
 
+Link to coolab: https://colab.research.google.com/drive/1BHZmJs_92C-paKWqq6809uxRFOyEcts1?usp=sharing
 Este repositorio contiene un modelo de predicción de gastos desarrollado en Google Colab. El modelo utiliza un archivo `.xlsx` con registros de actividades y sus gastos para hacer predicciones sobre gastos futuros.
 
 ---
